@@ -18,6 +18,7 @@ npm run dev
 
 ```shell
 npm i zustand
+npm i axios
 ```
 
 ## Links
