@@ -19,6 +19,7 @@ npm run dev
 ```shell
 npm i zustand
 npm i axios
+npm i react-hook-form
 ```
 
 ## Links
